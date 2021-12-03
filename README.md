@@ -16,3 +16,5 @@ By default, the app will listen on port 3000.
 ```bash
 open http://localhost:3000
 ```
+
+:)
