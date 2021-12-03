@@ -1,6 +1,6 @@
 app:
-  applicationId: ${APP_ID:a919a264-de99-4087-b3b4-5939104caf9f}
-  env: Development
+  applicationId: ${APP_ID:3407eb81-a0a6-4b15-bd4a-a540e4b8589b}
+  env: Github action
   host: http://localhost:3000
 
   graphqlConf:
